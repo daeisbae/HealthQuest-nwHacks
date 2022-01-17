@@ -1,3 +1,6 @@
+# Original Repo
+[Original Repository that we worked on](https://github.com/Akanksha1212/healthQuest)
+
 ## Inspiration 💡
 The Covid-19 pandemic has caused major disruptions to our daily lives. Most of us are homestuck, while many of us tend to sit in front of computers for an extensive period of time. This change in social dynamics due to local restrictions immensely impacted human behavior and are making humans lethargic. According to reports(nimh.nih.gov), the same has resulted in an over 55% increase in the number of people affected by Attention Deficit Hyperactivity Disorder aka ADHD which is a matter of great concern! The most affected ones are specially-abled people as well as children.
 
